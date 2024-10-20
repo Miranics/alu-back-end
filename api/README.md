@@ -1,8 +1,8 @@
-Back-end: APIs
+##Back-end: APIs
 
 
 ![alt text](image.png)
-Resources
+##Resources
 Read or watch:
 
 Friends don’t let friends program in shell script
@@ -14,7 +14,7 @@ PEP8 Python style - having a clean code respecting style guide is really appreci
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+##General
 What Bash scripting should not be used for
 What is an API
 What is a REST API
@@ -28,7 +28,7 @@ Pythonic Function name style
 Pythonic Constant name style
 Significance of CapWords or CamelCase in Python
 Requirements
-General
+##General
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 All your files should end with a new line
