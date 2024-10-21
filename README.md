@@ -7,7 +7,7 @@ This repo aims to cover the backend of  web Infrastructure
 
 
 ![alt text](image.png)
-##Resources
+#Resources
 Read or watch:
 
 Friends don’t let friends program in shell script
